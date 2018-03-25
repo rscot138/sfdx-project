@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SFDX  App
 
 ## Dev, Build and Test
@@ -12,3 +13,6 @@
 ## Issues
 
 
+=======
+# sfdx-project
+>>>>>>> Initial commit
